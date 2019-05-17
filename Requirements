@@ -1,0 +1,6 @@
+# You will need
+
+pandas
+statsmodels.api
+matplotlib.pyplot 
+numpy
